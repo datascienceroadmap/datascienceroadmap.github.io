@@ -5,7 +5,7 @@ description: >
   A developer focused guide to becoming a data scientist.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://datascienceroadmap.com" # the base hostname & protocol for your site
-twitter_username: datascienceroadmap
+twitter_username: datasciencerm
 github_username:  datascienceroadmap
 
 # Build settings
