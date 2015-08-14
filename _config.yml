@@ -1,0 +1,12 @@
+# Site settings
+title: Data Science Roadmap
+email: contact@datascienceroadmap.com
+description: > 
+  A developer focused guide to becoming a data scientint.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://datascienceroadmap.com" # the base hostname & protocol for your site
+twitter_username: datascienceroadmap
+github_username:  datascienceroadmap
+
+# Build settings
+markdown: kramdown
